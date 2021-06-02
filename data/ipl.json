@@ -1,0 +1,74 @@
+[
+    {
+        "Year":"2012",
+        "Winner":"Kolkata Knight Riders",	
+        "RunnerUp":"Chennai Super King",
+        "Venue":"Chennai",
+        "Numberofteams":"9",
+        "PlayeroftheMatch":"Manvinder Bisla"
+    },
+    {
+        "Year":"2013",
+        "Winner":"Mumbai Indians",	
+        "RunnerUp":"Chennai Super Kings",
+        "Venue":"Kolkata",
+        "Numberofteams":"9",
+        "PlayeroftheMatch":"Kieron Pollard"
+    },
+    {
+        "Year":"2014",
+        "Winner":"Kolkata Knight Riders",	
+        "RunnerUp":"Kings XI Punjab",
+        "Venue":"Bangalore",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Manish Pandey"
+    },
+    {
+        "Year":"2015",
+        "Winner":"Mumbai Indians",	
+        "RunnerUp":"Chennai Super Kings",
+        "Venue":"Kolkata",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Rohit Sharma"
+    },	
+    {
+        "Year":"2016",
+        "Winner":"Sunrisers Hyderabad",	
+        "RunnerUp":"Royal Challengers Bangalore",
+        "Venue":"Bangalore",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Ben Cutting"
+    },
+    {
+        "Year":"2017",
+        "Winner":"Mumbai Indians",	
+        "RunnerUp":"Rising Pune Supergiants",
+        "Venue":"Hyderabad",
+        "Numberofteams":"8",
+        "Player of the Match":"Krunal Pandya"
+    },
+    {
+        "Year":"2018",
+        "Winner":"Chennai Super Kings",	
+        "Runner Up":"Sunrisers Hyderabad",
+        "Venue":"Mumbai",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Shane Watson"
+    },
+    {
+        "Year":"2019",
+        "Winner":"Mumbai Indians",	
+        "RunnerUp":"Chennai Super Kings",
+        "Venue":"Hyderabad",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Jasprit Bumrah"
+    },
+    {
+        "Year":"2020",
+        "Winner":"Mumbai Indians",	
+        "RunnerUp":"Delhi Capitals",
+        "Venue":"Dubai",
+        "Numberofteams":"8",
+        "PlayeroftheMatch":"Trent Boult"
+    }
+]
