@@ -1,6 +1,6 @@
 # IPL Winner List using API(Json file created by own)
 ## Steps 
-1. Install VS code.
+1. Install VS code [VS Code official website](https://code.visualstudio.com/).
 1. Install node.js from [Node.js offical website](https://nodejs.org/en/download/) as per your system OS and configuration.
 2. Create a folder at drive you want to  create your project using command line mkdir dir_name.
 3. Open folder in VS Code using code . in project dir you are in cmd.
